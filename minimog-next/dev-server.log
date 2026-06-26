@@ -1,0 +1,30 @@
+
+> minimog-next@0.0.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 1346ms
+
+ GET / 200 in 793ms (next.js: 391ms, application-code: 402ms)
+ GET /api/themes 200 in 592ms (next.js: 523ms, application-code: 69ms)
+ GET /admin 200 in 791ms (next.js: 656ms, application-code: 135ms)
+ GET /api/themes 200 in 23ms (next.js: 6ms, application-code: 17ms)
+✓ Compiled in 32ms
+ POST /api/themes 201 in 39ms (next.js: 7ms, application-code: 32ms)
+ DELETE /api/themes/uploaded-test-theme-1782440266360 200 in 1808ms (next.js: 1778ms, application-code: 30ms)
+ GET / 200 in 142ms (next.js: 10ms, application-code: 132ms)
+ GET /api/themes 200 in 34ms (next.js: 8ms, application-code: 25ms)
+ GET / 200 in 116ms (next.js: 13ms, application-code: 102ms)
+ GET /api/themes 200 in 21ms (next.js: 6ms, application-code: 15ms)
+ GET /admin 200 in 122ms (next.js: 8ms, application-code: 114ms)
+ GET /api/themes 200 in 22ms (next.js: 7ms, application-code: 15ms)
+ GET / 200 in 243ms (next.js: 10ms, application-code: 234ms)
+ GET /api/themes 200 in 27ms (next.js: 7ms, application-code: 20ms)
+ GET / 200 in 112ms (next.js: 13ms, application-code: 99ms)
+ GET /api/themes 200 in 33ms (next.js: 6ms, application-code: 27ms)
+ GET /admin 200 in 89ms (next.js: 9ms, application-code: 80ms)
+ GET /api/themes 200 in 26ms (next.js: 6ms, application-code: 20ms)
+ GET / 200 in 120ms (next.js: 9ms, application-code: 111ms)
+ GET /api/themes 200 in 24ms (next.js: 7ms, application-code: 17ms)
